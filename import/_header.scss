@@ -1,0 +1,19 @@
+header{
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+  img{
+    width:80px;
+  }
+  a{
+    color: white;
+    background-color: $first-color;
+    border-radius:15px;
+    padding:5px 10px;
+    font-size:15px
+  }
+}
